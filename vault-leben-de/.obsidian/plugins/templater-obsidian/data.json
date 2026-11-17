@@ -1,0 +1,23 @@
+{
+  "templates_folder": "⚙️ Vorlagen",
+  "trigger_on_file_creation": true,
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "📝 Notizen",
+      "template": "⚙️ Vorlagen/Standard.md"
+    },
+    {
+      "folder": "📝 Notizen/🗓️ Tage",
+      "template": "⚙️ Vorlagen/Tag.md"
+    },
+    {
+      "folder": "📝 Notizen/🗓️ Wochen",
+      "template": "⚙️ Vorlagen/Woche.md"
+    },
+    {
+      "folder": "🚀 Projekte",
+      "template": "⚙️ Vorlagen/Projekt.md"
+    }
+  ]
+}

@@ -36,6 +36,7 @@ asking you to keep it organised yourself.
 - **`CLAUDE.md`** - project instructions for Claude Code: vault structure,
   tagging conventions, task/date conventions. Drop this at the root of your
   own vault and edit to taste.
+- **`vault-leben-de/`** - a ready-to-open German vault for ordering your whole life and brain (inbox, eight life areas, projects, daily/weekly notes, overwhelm protocol, three Claude skills). Open the folder in Obsidian; see its own `README.md`.
 - **`vault-skeleton/`** - an *example* folder structure (Notes, Projects,
   Archive, Templates, Daily notes, etc.), for starting a vault from scratch.
   If you already have a vault, skip it and map the conventions onto your
